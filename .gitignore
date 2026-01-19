@@ -30,6 +30,7 @@ misc/hooks/pre-commit-custom-*
 #############################
 
 # Buildsystem
+danysan/
 bin
 *.gen.*
 compile_commands.json
